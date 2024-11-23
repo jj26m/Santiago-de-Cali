@@ -72,7 +72,7 @@
 <body>
     <header>
         <h1>GRUPO SURA</h1>
-        <p>Nuestro mejor activo: la gente</p>
+        <p>NUESTRO MEJOR ACTIVO LA GENTE , EMPRESA SEGURA Y SALUDABLE.</p>
     </header>
 
     <div class="menu">
